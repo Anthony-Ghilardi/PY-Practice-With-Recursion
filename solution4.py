@@ -9,4 +9,4 @@ def power(a, b):
     else:
         return a * power(a, b - 1)
 
-print(power(2, 4))
+print(power(2, 5))
